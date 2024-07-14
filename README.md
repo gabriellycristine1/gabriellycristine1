@@ -1,7 +1,7 @@
 ### Olá eu sou a Gabrielly 👋
 
 - 🔭 Eu estou trabalhando em projetos de Programação
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Ciência de dados
 - 😄 Pronouns: ela/dela
 
 ##
